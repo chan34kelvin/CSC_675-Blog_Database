@@ -9,14 +9,11 @@ Overall, this database facilitates blog creation, user interaction, and visitor 
 # Designs
 
 - ER Diagram
-![Screenshot](./er-diagram/Blog_Database-ER_Diagram)
+![Screenshot](./er-diagram/Blog_Database-ER_Diagram.png)
 
 - Design details
 
 https://docs.google.com/document/d/1u0KXnOjF5ggnSMAvRysqfVZXLwtYit4NaMpdTuMmek8/edit?usp=sharing
-
-## Database Presentation
-https://docs.google.com/presentation/d/1_EeD_x84JUpCwhhGQt_rIZveqtnbVzFp3FVF3vIIM3k/edit?usp=sharing
 
 # Team Members
 

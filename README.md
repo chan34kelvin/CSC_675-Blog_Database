@@ -18,7 +18,9 @@ https://docs.google.com/document/d/1u0KXnOjF5ggnSMAvRysqfVZXLwtYit4NaMpdTuMmek8/
 ## Database Presentation
 https://docs.google.com/presentation/d/1_EeD_x84JUpCwhhGQt_rIZveqtnbVzFp3FVF3vIIM3k/edit?usp=sharing
 
-# Collaborators
+# Team Members
+
+This team project is created by:
 
 - Steven Liao
 - Kelvin Ching Kiu Chan (Github: chan34kelvin)

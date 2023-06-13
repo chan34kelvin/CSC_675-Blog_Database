@@ -53,7 +53,7 @@ https://docs.google.com/document/d/1zfW3RrNYqqmPZEy1ZN55anPhXlA90druCgxr-Ukw2rM/
 
 # Search Queries
 
-Here is a list of search queries to test the database.
+The dataset is already inside the database ready to use, here is a list of search queries to test the database.
 
 - Finds the number of comments for all blogs.
 ```SELECT COUNT(*), A.bid FROM has_comments A, create_blog B WHERE A.bid= B.bid GROUP BY B.bid;```

@@ -9,7 +9,7 @@ Overall, this database facilitates blog creation, user interaction, and visitor 
 # Designs
 
 - ER Diagram
-![Screenshot](./er-diagram/Blog_Database-ER_Diagram.png)
+![Screenshot](./er_diagram/Blog_Database-ER_Diagram.png)
 
 - Design details
 

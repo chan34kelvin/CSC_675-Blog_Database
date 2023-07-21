@@ -6,6 +6,8 @@ Every user within the system possesses a name, email address, and password. Whil
 
 Overall, this database facilitates blog creation, user interaction, and visitor tracking, creating an engaging environment for blogging and communication.
 
+- We developed some simple SQL queries to test out the blog database, all located at the bottom of this README.md 
+
 # Designs
 
 - Design details
